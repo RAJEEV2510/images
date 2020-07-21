@@ -6,7 +6,7 @@
  background-color: black;
  color:white;
   align-items: center;
- width: 95%; 
+ width: 100%; 
 }
 .Mygallery{
 
@@ -26,7 +26,7 @@ img{
   border: 2px solid pink;
   background-color: black;
   text-align: center;
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 40px;
   font-style: italic;
   color:deepskyblue;
@@ -54,8 +54,9 @@ select{
     color: #FFFFFF;
     text-align: center;
     font-size: 20px;
+    margin-left:4px;
    
-    width: 100px;
+    width: 80px;
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
@@ -91,17 +92,17 @@ select{
   0%{
     color: deepskyblue;
     margin-left:20px ;
-    margin-right:20px ;
+    
   }
   10%{
     color: deepskyblue;
-    margin-left:25px ;
-    margin-right:25px;
+    margin-left:20px ;
+    
   }
  
   50%{
-    margin-left:25px ;
-    margin-right: 25px;
+    margin-left:20px ;
+    
 color:gold;
   }
 80%{
