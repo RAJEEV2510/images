@@ -9,8 +9,8 @@ import * as serviceWorker from './serviceWorker';
 function Header(){
 
 return(<>
-<div style={{width:"100%",backgroundColor:'black',height:'auto',display:'flex',justifyContent:'space-around',color:"white"}}>
-    Deepak Copyright 2021
+<div style={{width:"100%",backgroundColor:'black',height:'50px',display:'flex',justifyContent:'space-around',color:"white"}}>
+    Deepak Copyright  Ⓒ 2021
  </div>  
   
 </>)
